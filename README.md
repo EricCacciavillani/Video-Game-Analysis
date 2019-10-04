@@ -5,6 +5,8 @@ Pre-Processing/Analysis section to a machine learning project; which the second 
 ## Getting Started
 
 ### Prerequisites/Installing
+Python >= 3.6
+
 * Matplotlib == 3.1.1
 * Numpy == 1.17.2
 * Pandas == 0.25.1
