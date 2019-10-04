@@ -28,7 +28,9 @@ jupyter-lab
 ## Built With
 * Python
 * JupyterLab
-## Contributing
+
+## Extra
+* Please inspect our PDF we created with Latex: *Pre_Processing_Video_Game_Sales*
 
 ## Authors
 * **Eric Cacciavill** - *Initial work* - [GitHub profile](https://github.com/EricCacciavillani)
