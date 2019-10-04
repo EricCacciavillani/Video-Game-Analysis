@@ -4,7 +4,7 @@ Pre-Processing/Analysis section to a machine learning project; which the second 
 
 ## Getting Started
 
-### Prerequisites/Installing
+### Prerequisites/Installing packages
 Python >= 3.6
 
 * Matplotlib == 3.1.1
